@@ -2,6 +2,22 @@
 English:
 
 These are the manufacturing plans of the electrical control circuit to be able to use the STC-013 sensor in a microcontroller board that works at 3V.
+
+I have included the files so you can make modifications to your taste
+
+STC sensor electrical circuit (editable files).rar
+
+and also the .gbr files to be able to send it directly to manufacturing.
+
+STC sensor electrical circuit (production files).rar
+
+This circuit taken from a blog, the only thing I did is adapt the circuit to work at 3V (to use the STC sensor on boards like NodeMcu or Arduino Micro) and design the circuit production blueprints.
+
+Blog: https://programarfacil.com/blog/arduino-blog/sct-013-consumo-electrico-arduino/
+
+The design program I used was KiCad.
+
+This is one of my first works, I know it's not perfect,but I'm open to critics.
 #
 Español:
 
