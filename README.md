@@ -17,6 +17,8 @@ STC sensor electrical circuit (production files).rar
 
 Este circuito esta sacado de de un blog, lo unico que hice yo es adaptar el circuito para que funcione a 3V (para utilizar el sensor STC en placas como NodeMcu o Arduino Micro) y diseñar los planos de fabricación del circuito.
 
+Blog: https://programarfacil.com/blog/arduino-blog/sct-013-consumo-electrico-arduino/
+
 El programa de diseño que utilicé fuen KiCad.
 
 Este es uno de mis primeros trabajos, se que no es perfecto, estoy abierto a criticas.
